@@ -28,6 +28,6 @@ yarn start
 
 
 # Screenshots
-<img src='./docs/001.png'>
-<img src='./docs/002.png'>
-<img src='./docs/003.png'>
+<img src='./screenshots/001.png'>
+<img src='./screenshots/002.png'>
+<img src='./screenshots/003.png'>
