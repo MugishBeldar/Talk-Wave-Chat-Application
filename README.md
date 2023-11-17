@@ -25,3 +25,9 @@ Open another terminal in folder, Also make sure mongodb is running in background
 cd server
 yarn start
 ```
+
+
+# Screenshots
+<img src='./docs/001.png'>
+<img src='./docs/002.png'>
+<img src='./docs/003.png'>
